@@ -39,8 +39,8 @@ margin-top:10px`;
 export const SubmitText = styled.Text`
 color: #fff;
 font-size: 20px;
-font-weight: bold;`;
+`;
 
 export const Link = styled.TouchableOpacity``;
 
-export const LinkText = styled.Text` color:#FFF; margin:10px; font-weigth: bold`;
+export const LinkText = styled.Text` color:#FFF; margin:10px`;

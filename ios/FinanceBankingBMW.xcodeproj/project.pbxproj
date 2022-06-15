@@ -86,6 +86,7 @@
 		13B07FAE1A68108700A75B9A /* FinanceBankingBMW */ = {
 			isa = PBXGroup;
 			children = (
+				62A309D1285A334C008F74D8 /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -106,6 +107,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		62A309D1285A334C008F74D8 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +130,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A371D7E857194224B0B9922F /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -135,6 +144,13 @@
 				00E356EE1AD99517003FC87E /* FinanceBankingBMWTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A371D7E857194224B0B9922F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
